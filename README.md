@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YellowBeans
-- 👀 I’m interested in ... FinTech
-- 🌱 I’m currently learning ... FinTech
+- 👀 I’m interested in ... FinTech, MedicalTech, KMS, SEO and so on
+- 🌱 I’m currently learning ... FinTech Basic Knowledge
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... msg
+- 📫 How to reach me ... msg email
 
 <!---
 YellowBeans/YellowBeans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
